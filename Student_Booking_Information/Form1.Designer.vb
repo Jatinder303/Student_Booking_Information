@@ -239,7 +239,7 @@ Partial Class Form1
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(135, 45)
         Me.Button2.TabIndex = 21
-        Me.Button2.Text = "Add More Phone Number??"
+        Me.Button2.Text = "Add Another Phone Number"
         Me.Button2.UseVisualStyleBackColor = False
         '
         'Form1
